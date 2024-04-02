@@ -21,9 +21,9 @@ Para o reconhecimento de voz, foi utilizada a Web Speech API. Os três scripts d
 ## Observações
 Para utilizar o reconhecimento de voz, é necessário permitir que a página acesse o microfone do dispositivo. O navegador irá detectar que a aplicação precisa do microfone e notificar no canto superior direito da barra de pesquisa.
 
-O reconhecimento de voz funciona melhor com um microfone externo ou do fone de ouvido.
+O reconhecimento de voz funciona melhor com um microfone externo ou com o do fone de ouvido.
 ## Screenshots
 
 ![App Screenshot](/images/game-screenshot.png)
 ![App Screenshot](/images/correct-screenshot.png)
-![App Screenshot](/images/reset-screenshot.png)S
+![App Screenshot](/images/reset-screenshot.png)
